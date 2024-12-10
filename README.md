@@ -1,6 +1,6 @@
 # Kanban Board Application
 
-This is Kanban board application made using ReactJS allows users to manage tasks across different stages: To Do, In Progress, Peer Review, and Done. The board supports drag-and-drop functionality for task movement and includes a search box to filter tasks by title.
+This is Kanban board application made using ReactJS allows users to manage tasks across different stages: To Do, In Progress, Peer Review, and Done.
 
 ## Features
 
